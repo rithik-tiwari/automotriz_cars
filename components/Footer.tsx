@@ -9,7 +9,7 @@ const Footer = () => (
       <div className='flex flex-col justify-start items-start gap-6'>
         <Image src="/automotriz_logo.png" alt='logo' width={118} height={18} className='object-contain' />
         <p className='text-base text-black-100'>
-          Carhub 2023 <br />
+          AutoMotRIZ_Cars 2023 <br />
           All Rights Reserved &copy;
         </p>
       </div>
@@ -35,7 +35,7 @@ const Footer = () => (
     </div>
 
     <div className='flex justify-between items-center flex-wrap mt-10 sm:px-16 px-6 py-10'>
-      <p>@2023 CarHub. All rights reserved &nbsp;&nbsp;&nbsp;&nbsp;</p>
+      <p>@2023 AutoMotRIZ_Cars. All rights reserved &nbsp;&nbsp;&nbsp;&nbsp;</p>
                 
       <div className="footer__copyrights-link">
         <Link href="/" className="text-black-100">
